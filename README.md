@@ -1,3 +1,4 @@
 # WiredApp
 
-## Wired project is a nativescript application.
+## Used the wired.com site
+## Nativescript
